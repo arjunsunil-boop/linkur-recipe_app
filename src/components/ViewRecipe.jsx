@@ -44,7 +44,7 @@ const ViewRecipe = () => {
     {
         "recipe_name": "Fruit and Granola",
         "recipe_image": "https://plus.unsplash.com/premium_photo-1700053460784-2993baeca13c?q=80&w=2582&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-        "recipe_description": ""
+        "recipe_description": "Layer your favorite fruits in a bowl for a beautiful presentation.Top with granola for added crunch and texture.Drizzle with yogurt, honey, or milk (optional) for extra moisture and sweetness.Enjoy a refreshing and healthy breakfast or snack!"
     },
     {
         "recipe_name": "Brown Doughnuts",
@@ -71,7 +71,7 @@ const ViewRecipe = () => {
     {
         "recipe_name": "Fruit Salad",
         "recipe_image": "https://images.unsplash.com/photo-1543668900-9124915a121f?q=80&w=2564&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-        "recipe_description": " Chop your favorite fruits (berries, melon, mango, etc.) into bite-sized pieces.Mix together in a bowl for a vibrant and colorful salad.Drizzle with lemon juice to prevent browning, especially for fruits like apples.(Optional) For a touch of sweetness, add a drizzle of honey or maple syrup.Serve chilled or at room temperature for a refreshing and healthy dessert."
+        "recipe_description": "Chop your favorite fruits (berries, melon, mango, etc.) into bite-sized pieces.Mix together in a bowl for a vibrant and colorful salad.Drizzle with lemon juice to prevent browning, especially for fruits like apples.(Optional) For a touch of sweetness, add a drizzle of honey or maple syrup.Serve chilled or at room temperature for a refreshing and healthy dessert."
     },
     {
         "recipe_name": "Daal Soup and Bread",

@@ -1,10 +1,10 @@
 .card-text {
-  height: 100px; /* Adjust as needed */
+  height: 100px; 
   overflow-y: auto;
 }
 .card-img-top {
   height: 450px;
-  width: 100%; /* Adjust as needed */
+  width: 100%; 
   object-fit: cover;
 }
 .card {
@@ -13,5 +13,12 @@
 
 .card:hover {
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
-  transform: scale(1.05); /* Adjust as needed */
+  transform: scale(1.05); 
+}
+
+.deals {
+  color: rgb(0, 0, 0);
+  font-size: 30px;
+  font-weight: bold;
+
 }

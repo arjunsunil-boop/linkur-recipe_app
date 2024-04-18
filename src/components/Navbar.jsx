@@ -5,7 +5,7 @@ const Navbar = () => {
     <div>
             <nav class="navbar navbar-expand-lg bg-body-tertiary">
         <div class="container-fluid">
-            <a class="navbar-brand" href="#">
+            <a class="navbar-brand" href="/">
                 <img src="https://cdn-icons-png.flaticon.com/512/1869/1869042.png" alt="" width="40" height="" class="d-inline-block align-text-top" /> RECIPE APP
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
